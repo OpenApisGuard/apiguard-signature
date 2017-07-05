@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.apiguard</groupId>
-    <artifactId>signature</artifactId>
+    <artifactId>apiguard-signature</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Api Guard Crypto Signature</name>
 
@@ -20,6 +20,7 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.12</version>
+            <scope>test</scope>
         </dependency>
     </dependencies>
 
